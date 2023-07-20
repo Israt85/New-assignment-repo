@@ -183,6 +183,7 @@ font-size: 20px;
     width: 200px;
     position: relative;
     bottom: 100px;
+    right: 50px;
 }
 .games-des, .new-games-des{
     padding-top: 100px;
@@ -199,7 +200,7 @@ font-size: 20px;
     width: 200px;
     position: relative;
     bottom: 100px;
-    left: 200px;
+    left: 400px;
 }
 .footer-part{
     height: 300px;
