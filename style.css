@@ -46,9 +46,6 @@ a{
     margin-left: 30px;
     margin-right: 50px;
 }
-.item-text{
-
-}
 .follow-btn{
     border-radius: 8px;
 background: rgb(153, 110, 140);
@@ -96,11 +93,15 @@ text-transform: lowercase;
 .banner-main{
     display: flex;
     background-color: rgb(235, 228, 219);
+    width: 100%;
+    height: 600px;
 
 }
-.banner{
-    height: auto;
-    width: 50%;
+
+.banner img{
+    padding: 100px;
+    height: 500px;
+    width: 80%;
 }
 .sign-btn{
     border-radius: 48px;
